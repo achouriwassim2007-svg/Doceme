@@ -81,7 +81,7 @@ In `pack.js`, `PACK` is the topic pack. In `script.js`, `rubric()` and `teach()`
 
 ## Tech stack
 
-HTML, CSS, JavaScript (no framework), Google Fonts (Fraunces, Nunito). Built with heavy use of Claude (Anthropic) for design and code generation.
+HTML, CSS, JavaScript (no framework), Google Fonts (Fraunces, Nunito). Built with Some uses  of Claude (Anthropic) for design and code generation.
 
 ## Notes
 

@@ -76,8 +76,8 @@ In `pack.js`, `PACK` is the topic pack. In `script.js`, `rubric()` and `teach()`
 
 | Name | What they did |
 |------|---------------|
-|Benabbou Norhene| wrote the topic pack and rubric |
-| ACHOURI WASSIM | built the teaching loop |
+|Benabbou Norhene| founder and team leader|
+| ACHOURI WASSIM | content curator and programmer|
 
 ## Tech stack
 
